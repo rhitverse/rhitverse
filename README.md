@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.imgur.com/YWq2r8V.gif" alt="naruto run" />
+  <img src="https://i.imgur.com/kdKhgx6.gif" alt="cat coding" />
 </p>
