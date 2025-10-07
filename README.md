@@ -17,24 +17,4 @@
 
 </div>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhitverse&show_icons=true&locale=en&layout=compact" alt="rhitverse" /></p>
-
-<div>💻 Tech Stack:: </div>
-<div height="10"></div>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhitverse/rhitverse/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhitverse/rhitverse/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rhitverse/rhitverse/output/github-snake.svg" />
-</picture>
+<p><img align="right" src="https://github
