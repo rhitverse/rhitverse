@@ -5,7 +5,9 @@
 <p align="center">
 <em>
   Yo 👾 I’m <b>Rohit</b><br>
-  I build sleek websites and badass apps — no templates, just raw original. I’m not a vibe coder — I know why the code works, and exactly why it breaks. Pixels, performance, and precision — every line is intentional.
+ I build sleek websites and badass apps — no templates, just original code.
+I know why it works, and exactly why it breaks.
+Precision. Performance. Purpose.
   <a href="https://x.com/rhitverse" target="_blank" style="text-decoration: underline;">Portfolio</a>.
 </em>
 </p>
