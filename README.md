@@ -17,9 +17,6 @@ Precision. Performance. Purpose.
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rhitverse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-saini-019907387/)
 
-</div>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhitverse&show_icons=true&locale=en&layout=compact" alt="rhitverse" /></p>
 
 <div>💻 Tech Stack:: </div>
 <div height="10"></div>
