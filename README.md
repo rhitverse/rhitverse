@@ -18,7 +18,9 @@ Precision. Performance. Purpose.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-saini-019907387/)
 
 
-<div>💻 Tech Stack:: </div>
+<div>💻 Tech Stack::
+
+</div>
 <div height="10"></div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
