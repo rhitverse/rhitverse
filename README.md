@@ -8,7 +8,7 @@
  I build sleek websites and badass apps — no templates, just original code.
 I know why it works, and exactly why it breaks.
 Precision. Performance. Purpose.
-  <a href="https://x.com/rhitverse" target="_blank" style="text-decoration: underline;">Portfolio</a>.
+  <a href="[https://x.com/rhitverse](https://portfolio-eight-red-35.vercel.app/)" target="_blank" style="text-decoration: underline;">Portfolio</a>.
 </em>
 </p>
 
