@@ -7,9 +7,9 @@
 <p align="center">
 <em>
   Yo 👾 I'm <b>Rohit</b><br>
-  I build sleek websites and badass apps — no templates, just original code.
-  I know why it works, and exactly why it breaks.
-  Precision. Performance. Purpose.
+ I don't just code — I architect.Sleek websites. Bulletproof apps. All handcraftedall mine.I ship what I understand, and I understand everything I ship.
+Precision. Performance. Purpose.
+
   <a href="https://portfolio-eight-red-35.vercel.app/" target="_blank" style="text-decoration: underline;">
     Portfolio
 </em>
