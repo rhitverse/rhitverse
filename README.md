@@ -30,7 +30,7 @@ Precision. Performance. Purpose.
 
 </div>
 
-<div>💻 Tech Stack:: </div>
+<div>💻 Tech Stack </div>
 <div height="10></div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
