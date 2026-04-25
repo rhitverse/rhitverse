@@ -7,9 +7,8 @@
 <p align="center">
 <em>
   Yo 👾 I'm <b>Rohit</b><br>
-I build mobile apps that feel fast, smooth, and effortless.
-From UI design to backend logic, every part is crafted with precision.
-Clean architecture. Scalable code. Real performance.
+ I don't just code — I architect.Sleek websites. Bulletproof apps. All handcraftedall mine.I ship what I understand, and I understand everything I ship.
+Precision. Performance. Purpose.
 
   <a href="https://portfolio-eight-red-35.vercel.app/" target="_blank" style="text-decoration: underline;">
     See the chaos
