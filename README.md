@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner5.gif" width="100%" alt="banner"/>
+  <img src="./assets/banner6.gif" width="100%" alt="banner"/>
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
 Precision. Performance. Purpose.
 
   <a href="https://portfolio-eight-red-35.vercel.app/" target="_blank" style="text-decoration: underline;">
-    Portfolio
+    See the chaos
 </em>
 </p>
 
