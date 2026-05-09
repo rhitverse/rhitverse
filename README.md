@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner6.gif" width="100%" alt="banner"/>
+  <img src="./assets/hanabi.gif" width="100%" alt="banner"/>
 </div>
 
 <br/>
